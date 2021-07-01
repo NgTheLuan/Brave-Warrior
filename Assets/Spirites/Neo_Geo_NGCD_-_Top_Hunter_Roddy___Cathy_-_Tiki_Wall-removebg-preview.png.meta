@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: de8d38a3627cfb94d9fb94eac9a09b2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4307643163086428995
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_0
+  - first:
+      213: -5194902443079719605
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_1
+  - first:
+      213: 5989263797945668551
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_2
+  - first:
+      213: -342863802005760712
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_3
+  - first:
+      213: 723400942527019219
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_4
+  - first:
+      213: -5141706452122430830
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_5
+  - first:
+      213: 2566079285746904200
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_6
+  - first:
+      213: 6879264783957785992
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_7
+  - first:
+      213: -4451729557833714754
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_8
+  - first:
+      213: 3999784709408346355
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_9
+  - first:
+      213: 2664094016901127910
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_10
+  - first:
+      213: -7000305737649782410
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_11
+  - first:
+      213: 5021804676237097477
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_12
+  - first:
+      213: -5251874977000015522
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_13
+  - first:
+      213: 3161010073450829396
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_14
+  - first:
+      213: 2210161617316748669
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_15
+  - first:
+      213: 7562242385994002535
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_16
+  - first:
+      213: 5430354293333864152
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_17
+  - first:
+      213: -9111852843956440023
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_18
+  - first:
+      213: -1594606581754573298
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_19
+  - first:
+      213: 8972254945373454316
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_20
+  - first:
+      213: -6632971124567676847
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_21
+  - first:
+      213: -2385719591378822043
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_22
+  - first:
+      213: 1285931438459971142
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_23
+  - first:
+      213: -2654119702130260422
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_24
+  - first:
+      213: -3032712709567175678
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_25
+  - first:
+      213: 3797821851737153599
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_26
+  - first:
+      213: 185763654148037573
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_27
+  - first:
+      213: 3317532130590057445
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_28
+  - first:
+      213: -7475225191122356466
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 683
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4e715bd5d2834c0800000000000000
+      internalID: -4307643163086428995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 692
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45ac6570cff7e7b0800000000000000
+      internalID: -5194902443079719605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 570
+        width: 38
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c398a611b32e1350800000000000000
+      internalID: 5989263797945668551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 559
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8355b1b4037ed3bf0800000000000000
+      internalID: -342863802005760712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 445
+        width: 38
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8718113590a0a00800000000000000
+      internalID: 723400942527019219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 382
+        width: 348
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29298e5493df4a8b0800000000000000
+      internalID: -5141706452122430830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 370
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cae64c38b8c9320800000000000000
+      internalID: 2566079285746904200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 38
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d78a38fde087f50800000000000000
+      internalID: 6879264783957785992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 256
+        width: 44
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3f63dad874832c0800000000000000
+      internalID: -4451729557833714754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 257
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0d25e5007128730800000000000000
+      internalID: 3999784709408346355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 256
+        width: 105
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee92a5b463c8f420800000000000000
+      internalID: 2664094016901127910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 144
+        width: 37
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6718144550be9de90800000000000000
+      internalID: -7000305737649782410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 144
+        width: 41
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50af1821fb801b540800000000000000
+      internalID: 5021804676237097477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 144
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59b627b8879d17b0800000000000000
+      internalID: -5251874977000015522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 144
+        width: 112
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456d77ff9e92edb20800000000000000
+      internalID: 3161010073450829396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d1e50f7421cae10800000000000000
+      internalID: 2210161617316748669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 244
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7603392326b72f860800000000000000
+      internalID: 7562242385994002535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 67
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deaea2657e7c5b40800000000000000
+      internalID: 5430354293333864152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924f7567d123c8180800000000000000
+      internalID: -9111852843956440023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 68
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ec40233c1ded9e0800000000000000
+      internalID: -1594606581754573298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 67
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceff935f55ad38c70800000000000000
+      internalID: 8972254945373454316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 81
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15868bab7e3f2f3a0800000000000000
+      internalID: -6632971124567676847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 68
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cdc26fba834eed0800000000000000
+      internalID: -2385719591378822043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 56
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646e9e284db88d110800000000000000
+      internalID: 1285931438459971142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 56
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36092b613caa2bd0800000000000000
+      internalID: -2654119702130260422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 8
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204af60dbd3a9e5d0800000000000000
+      internalID: -3032712709567175678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 14
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3062093ad294b430800000000000000
+      internalID: 3797821851737153599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 14
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb1ca92f07f39200800000000000000
+      internalID: 185763654148037573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 9
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3e3ce45ed3a0e20800000000000000
+      internalID: 3317532130590057445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Tiki_Wall-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 9
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07b91b4b4aa24890800000000000000
+      internalID: -7475225191122356466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

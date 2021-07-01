@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 4d5ec242c404fcc48936e440bd46a311
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6988854575378368958
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_0
+  - first:
+      213: 8285285402266864721
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_1
+  - first:
+      213: 4724070180389561334
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_2
+  - first:
+      213: -8005197269605496810
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_3
+  - first:
+      213: 988578113361157525
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_4
+  - first:
+      213: -9107811480811518885
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_5
+  - first:
+      213: 185796192349014009
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_6
+  - first:
+      213: 1108568273080152149
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_7
+  - first:
+      213: 3638521867078397923
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_8
+  - first:
+      213: 6621955947180010500
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_9
+  - first:
+      213: -8133524212285439093
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_10
+  - first:
+      213: -6253404534845678916
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_11
+  - first:
+      213: -7350015471754458856
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_12
+  - first:
+      213: 4262394600917906198
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_13
+  - first:
+      213: -1775591559616503482
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_14
+  - first:
+      213: -5626019738751186437
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_15
+  - first:
+      213: 4360544778260524666
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_16
+  - first:
+      213: -432647565557623619
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_17
+  - first:
+      213: 6565889816624374174
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_18
+  - first:
+      213: 3823915672701254561
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_19
+  - first:
+      213: 6363092406336831173
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_20
+  - first:
+      213: -1392089945239613259
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_21
+  - first:
+      213: -8369217726636599472
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_22
+  - first:
+      213: 321871782127350475
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 480
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24675bfcac9920f90800000000000000
+      internalID: -6988854575378368958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 392
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c88d01d2f3bf270800000000000000
+      internalID: 8285285402266864721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 384
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3a224ccc44f8140800000000000000
+      internalID: 4724070180389561334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618cc342f73d7e090800000000000000
+      internalID: -8005197269605496810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 287
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d1e9f6e8228bd00800000000000000
+      internalID: 988578113361157525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 287
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b544105a6bd8a9180800000000000000
+      internalID: -9107811480811518885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 287
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7459d07a4149200800000000000000
+      internalID: 185796192349014009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 287
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550f53e88fc626f00800000000000000
+      internalID: 1108568273080152149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 278
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efe2b24c50ae7230800000000000000
+      internalID: 3638521867078397923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 190
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c23fd69d9e5eb50800000000000000
+      internalID: 6621955947180010500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 198
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8300ba72daef1f80800000000000000
+      internalID: -8133524212285439093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 198
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbad4bf15b17739a0800000000000000
+      internalID: -6253404534845678916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 198
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8194378dedf7ff990800000000000000
+      internalID: -7350015471754458856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 198
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61331407e41172b30800000000000000
+      internalID: 4262394600917906198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 198
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64160ee42e4db57e0800000000000000
+      internalID: -1775591559616503482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 98
+        width: 77
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5119512, y: 0.35841855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf946640bdc5ce1b0800000000000000
+      internalID: -5626019738751186437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 98
+        width: 74
+        height: 89
+      alignment: 9
+      pivot: {x: 0.51243496, y: 0.40693784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e27676f54c38c30800000000000000
+      internalID: 4360544778260524666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 98
+        width: 75
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5122699, y: 0.41727817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db41006d45deef9f0800000000000000
+      internalID: -432647565557623619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 90
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91204a200abe1b50800000000000000
+      internalID: 6565889816624374174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab386a5b07411530800000000000000
+      internalID: 3823915672701254561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 6
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce31b894de3e4850800000000000000
+      internalID: 6363092406336831173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6
+        width: 132
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b09996029d4eace0800000000000000
+      internalID: -1392089945239613259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 6
+        width: 133
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0575ce3d1d09adb80800000000000000
+      internalID: -8369217726636599472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Caged_Monster-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 6
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc23ce43ea4877400800000000000000
+      internalID: 321871782127350475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
